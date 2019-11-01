@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n@author\ Mert\r\n@version\ 1409\r\n
+comment1.params=
+comment1.target=Room()
+comment1.text=\r\nConstructor\ with\ no\ arg\ -\ sets\ both\ instance\ variable\ to\ default\ value\r\n\r\n
+comment2.params=lengthInFeet\ widthInFeet
+comment2.target=Room(double,\ double)
+comment2.text=\r\nSecond\ constructor\r\n@param\ lengthInFeet\r\n@param\ widthInFeet\r\n
+comment3.params=
+comment3.target=double\ getLengthInFeet()
+comment3.text=\r\nMethod\ getLengthInFeet\r\n@return\ lengthInFeet\r\n
+comment4.params=
+comment4.target=double\ getWidthInFeet()
+comment4.text=\r\nMethod\ getWidthInFeet\r\n@return\ widthInFeet\r\n
+comment5.params=newLengthInFeet
+comment5.target=void\ setLengthInFeet(double)
+comment5.text=\r\nMethod\ setLengthInFeet\r\n@param\ newLengthInFeet\r\n
+comment6.params=newWidthInFeet
+comment6.target=void\ setWidthInFeet(double)
+comment6.text=\r\nMethod\ setWidthInFeet\r\n@param\ newWidthInFeet\r\n
+comment7.params=
+comment7.target=double\ calculateArea()
+comment7.text=\r\nMethod\ calculateArea\ \r\n
+numComments=8
